@@ -1,0 +1,2 @@
+let mixer = mixitup('.wrapper');
+
